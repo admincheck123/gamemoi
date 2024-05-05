@@ -1,6 +1,6 @@
 
 module.exports = {
-	'url': 'mongodb://127.0.0.1:27017',
+	'url': 'mongodb+srv://gamecuakhang:123456-a@cluster0.8od0ziu.mongodb.net/?',
 	'options': {
 		//'user':   'kvcpro',
 		//'pass':   'Minhhoang2009@',
